@@ -81,3 +81,9 @@ media/
 *.db
 _build/
 dist/
+
+
+venv
+*.pyc
+staticfiles
+.env
